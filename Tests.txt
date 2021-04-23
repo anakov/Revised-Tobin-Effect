@@ -1,0 +1,16 @@
+
+
+US
+   R1     R2      LOG-L       TEST      DGF      SIGNIF       AKAIKE
+   0      2     2634.1     47.835       6       0.0000      -39.076
+   1      1     2643.5     29.000       6       0.0001      -39.216
+
+UK
+   R1     R2      LOG-L       TEST      DGF      SIGNIF       AKAIKE
+   0      2      735.4     66.896       6       0.0000      -13.080
+   1      1      746.0     45.771       6       0.0000      -13.272
+
+NOTE: NON CAUSALITY IS ACCEPTED WHEN THE SIGNIFICANCE
+LEVEL IS LARGER THAN 0.05
+
+
